@@ -40,6 +40,7 @@ Each part includes Python implementations along with performance and complexity 
  Copy and paste the code from the respective .py files into your IDE, save them, and run them to observe the results.
    
 **Summary**
+
 For practical median selection, QuickSelect is generally the preferred algorithm due to its strong average-case performance, making it efficient and easy to use in most real-world scenarios. However, in situations where strict worst-case performance guarantees are required, the Deterministic Median-of-Medians algorithm is more suitable. Although it may be slower in practice, it provides guaranteed linear-time behavior, making it valuable for applications that demand predictable and reliable performance.
 
 
@@ -80,6 +81,7 @@ For practical median selection, QuickSelect is generally the preferred algorithm
  Copy and paste the code from the respective .py files into your IDE, save them, and run them to observe the results.
 
 
-** Summary**
+**Summary**
+
  Part II focuses on implementing a range of fundamental data structures—including arrays, matrices, linked lists, stacks, queues, and rooted trees—to explore how each structure organizes and manages data. The section analyzes the time and space complexities of common operations such as insertion, deletion, searching, and traversal, highlighting how these complexities influence practical performance. Additionally, it provides a discussion on the trade-offs of choosing one data structure over another, such as the constant-time access of arrays versus the dynamic flexibility of linked lists, or the LIFO/FIFO behavior that makes stacks and queues ideal for specific workflows. Real-world examples illustrate how these structures are applied in systems such as memory management, scheduling, graph processing, and hierarchical data modeling. Together, these analyses help clarify when and why each data structure should be used in practical software development.
 

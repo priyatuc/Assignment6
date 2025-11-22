@@ -1,5 +1,10 @@
 # Project Overview
 
+Priya Thapa
+11/22/2025
+MSCS-532 Algorithm and Data Strucutures
+Dr. Brandon Bass
+
 This repository contains my submission for a two-part assignment focused on algorithm analysis and fundamental data structure implementations.
 
 The project is divided into:

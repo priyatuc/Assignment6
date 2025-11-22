@@ -3,10 +3,8 @@
 This repository contains my submission for a two-part assignment focused on algorithm analysis and fundamental data structure implementations.
 
 The project is divided into:
-
-  Part I – Implementation and Analysis of Selection Algorithms
-  
-  Part II – Elementary Data Structures: Implementation and Discussion
+    Part I – Implementation and Analysis of Selection Algorithms
+    Part II – Elementary Data Structures: Implementation and Discussion
 
 Each part includes Python implementations along with performance and complexity analysis.
 
@@ -17,7 +15,7 @@ Each part includes Python implementations along with performance and complexity 
    - Deterministic Selection Algorithm (Median-of-Medians)
    - Randomized Selection Algorithm (QuickSelect)
 
-**  Included files**
+  **Included files**
     Deterministic_Algorithm.py 
     Randomized_Algorithm.py
     Comparision_Deterministic_Randomized.py

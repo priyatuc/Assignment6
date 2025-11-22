@@ -16,17 +16,18 @@ Each part includes Python implementations along with performance and complexity 
    - Randomized Selection Algorithm (QuickSelect)
 
   **Included files**
-    Deterministic_Algorithm.py 
-    Randomized_Algorithm.py
-    Comparision_Deterministic_Randomized.py
-    **Report**
-      Part I  Implementation & Analysis of Selection Algorithms.pdf contains the following reports:
-        Implementation for both algorithms
-        Performance Analysis 
-        Empirical Performance Analysis (runtime experiments)
-        Space Complexity Discussion
+        Deterministic_Algorithm.py 
+        Randomized_Algorithm.py
+        Comparision_Deterministic_Randomized.py
+        
+  **Report**
+          Part I  Implementation & Analysis of Selection Algorithms.pdf contains the following reports:
+            Implementation for both algorithms
+            Performance Analysis 
+            Empirical Performance Analysis (runtime experiments)
+            Space Complexity Discussion
 
-** How to Run the Code:**
+**How to Run the Code:**
   Prerequisites
     Python 3.8 or above
     Visual Studio Code or any Python IDE

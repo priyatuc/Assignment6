@@ -20,7 +20,7 @@ Each part includes Python implementations along with performance and complexity 
   
         Deterministic_Algorithm.py 
         Randomized_Algorithm.py
-        Comparision_Deterministic_Randomized.py
+        Comparison_Deterministic_Randomized.py
         
   **Report**
   
